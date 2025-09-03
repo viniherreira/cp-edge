@@ -6,10 +6,12 @@ joao guilherme - rm 565244
 
 wokiwi ->  
 
-https://wokwi.com/projects/441117578447428609
+https://wokwi.com/projects/441117578447428609   
 https://thingspeak.mathworks.com/channels/3060776
 
 video explicativo
 https://youtu.be/e8bT8de9mWc
+
+![Circuito montado Hands-On]([https://i.ibb.co/hRcF5J8c/31742718-a038-4fde-bbd3-96cfaae495c4.jpg](https://i.ibb.co/2YnSdd1r/IMG-7226.jpg))
 
 
